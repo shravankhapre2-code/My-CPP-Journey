@@ -25,3 +25,9 @@ Calculate Simple Interest
 <img width="1080" height="2408" alt="Screenshot_20260405-215903" src="https://github.com/user-attachments/assets/825e708a-329d-4ec0-aa43-1347cbd1197d" />
 <img width="1080" height="2408" alt="Screenshot_20260405-215912" src="https://github.com/user-attachments/assets/b9fa918e-64f1-45b1-9f5d-b4388af986cf" />
 <img width="1080" height="2408" alt="Screenshot_20260405-215932" src="https://github.com/user-attachments/assets/e963964f-46fa-4914-9ff4-413ef0f85504" />
+
+# Day 7: Nested if else
+
+<img width="1080" height="2408" alt="Screenshot_20260406-214657" src="https://github.com/user-attachments/assets/cca114df-cc05-4c61-a5ef-986286209bf9" />
+<img width="1080" height="2408" alt="Screenshot_20260406-214706" src="https://github.com/user-attachments/assets/310fca5b-22fd-42c8-8a78-34a6b5f854ae" />
+<img width="1080" height="2408" alt="Screenshot_20260406-214630" src="https://github.com/user-attachments/assets/e8abe241-7a92-498b-8b1d-3bc0b7610551" />
