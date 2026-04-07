@@ -31,3 +31,10 @@ Calculate Simple Interest
 <img width="1080" height="2408" alt="Screenshot_20260406-214657" src="https://github.com/user-attachments/assets/cca114df-cc05-4c61-a5ef-986286209bf9" />
 <img width="1080" height="2408" alt="Screenshot_20260406-214706" src="https://github.com/user-attachments/assets/310fca5b-22fd-42c8-8a78-34a6b5f854ae" />
 <img width="1080" height="2408" alt="Screenshot_20260406-214630" src="https://github.com/user-attachments/assets/e8abe241-7a92-498b-8b1d-3bc0b7610551" />
+
+
+# Day 8: Switch statement
+
+<img width="1080" height="1904" alt="Screenshot_20260407-220044" src="https://github.com/user-attachments/assets/0deaea3c-88ee-4f61-9a79-1d1b66e8e068" />
+<img width="1080" height="2408" alt="Screenshot_20260407-220110" src="https://github.com/user-attachments/assets/9ec87cef-7e79-4415-aef1-183feccfdcbd" />
+<img width="1080" height="2408" alt="Screenshot_20260407-220117" src="https://github.com/user-attachments/assets/982207c2-c2f2-48a1-9ad1-92dcf810418b" />
