@@ -38,3 +38,9 @@ Calculate Simple Interest
 <img width="1080" height="1904" alt="Screenshot_20260407-220044" src="https://github.com/user-attachments/assets/0deaea3c-88ee-4f61-9a79-1d1b66e8e068" />
 <img width="1080" height="2408" alt="Screenshot_20260407-220110" src="https://github.com/user-attachments/assets/9ec87cef-7e79-4415-aef1-183feccfdcbd" />
 <img width="1080" height="2408" alt="Screenshot_20260407-220117" src="https://github.com/user-attachments/assets/982207c2-c2f2-48a1-9ad1-92dcf810418b" />
+
+
+# Day 9:For loop
+
+<img width="1080" height="2408" alt="Screenshot_20260408-210348" src="https://github.com/user-attachments/assets/c3a34c5e-3268-48a8-a483-d80f6dc5231e" />
+<img width="1080" height="2408" alt="Screenshot_20260408-210409" src="https://github.com/user-attachments/assets/929807c8-31a2-4a21-bf58-84a6121b7f79" />
