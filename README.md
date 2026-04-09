@@ -44,3 +44,8 @@ Calculate Simple Interest
 
 <img width="1080" height="2408" alt="Screenshot_20260408-210348" src="https://github.com/user-attachments/assets/c3a34c5e-3268-48a8-a483-d80f6dc5231e" />
 <img width="1080" height="2408" alt="Screenshot_20260408-210409" src="https://github.com/user-attachments/assets/929807c8-31a2-4a21-bf58-84a6121b7f79" />
+
+# Day 10:Nested loop
+<img width="1080" height="2408" alt="Screenshot_20260409-215048" src="https://github.com/user-attachments/assets/f53ffbdf-843f-41c5-9668-521fb61289a0" />
+<img width="1080" height="2408" alt="Screenshot_20260409-215100" src="https://github.com/user-attachments/assets/953a9120-7942-4f20-9645-2eee2c0a2d74" />
+<img width="1080" height="2408" alt="Screenshot_20260409-215109" src="https://github.com/user-attachments/assets/41f97e68-4f44-4b02-a8fe-a92900158b72" />
