@@ -49,3 +49,11 @@ Calculate Simple Interest
 <img width="1080" height="2408" alt="Screenshot_20260409-215048" src="https://github.com/user-attachments/assets/f53ffbdf-843f-41c5-9668-521fb61289a0" />
 <img width="1080" height="2408" alt="Screenshot_20260409-215100" src="https://github.com/user-attachments/assets/953a9120-7942-4f20-9645-2eee2c0a2d74" />
 <img width="1080" height="2408" alt="Screenshot_20260409-215109" src="https://github.com/user-attachments/assets/41f97e68-4f44-4b02-a8fe-a92900158b72" />
+
+
+# Day 11:Geometric Progression
+<img width="1080" height="2408" alt="Screenshot_20260410-215630" src="https://github.com/user-attachments/assets/3d060fff-a8d1-4d1a-865a-2fc4d3b6f045" />
+<img width="1080" height="2408" alt="Screenshot_20260410-215642" src="https://github.com/user-attachments/assets/e45af80f-c262-46b6-b75e-5422dcb6b304" />
+<img width="1080" height="2408" alt="Screenshot_20260410-215650" src="https://github.com/user-attachments/assets/ceb4feb0-e86e-4c0d-9633-7e51ee934540" />
+
+
