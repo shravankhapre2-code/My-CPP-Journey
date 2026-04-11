@@ -57,3 +57,15 @@ Calculate Simple Interest
 <img width="1080" height="2408" alt="Screenshot_20260410-215650" src="https://github.com/user-attachments/assets/ceb4feb0-e86e-4c0d-9633-7e51ee934540" />
 
 
+# Day12 Reverse loop
+
+<img width="1080" height="2408" alt="Screenshot_20260411-215938" src="https://github.com/user-attachments/assets/b67d7b32-3e1d-42b8-8961-fa61113cbce1" />
+<img width="1080" height="2408" alt="Screenshot_20260411-215947" src="https://github.com/user-attachments/assets/8975c543-9d98-4465-8d1c-00982ceb6666" />
+<img width="1080" height="2408" alt="Screenshot_20260411-215953" src="https://github.com/user-attachments/assets/2f2646d6-9720-4b85-9ab0-41a96a3c2669" />
+
+
+
+
+
+
+
