@@ -63,6 +63,11 @@ Calculate Simple Interest
 <img width="1080" height="2408" alt="Screenshot_20260411-215947" src="https://github.com/user-attachments/assets/8975c543-9d98-4465-8d1c-00982ceb6666" />
 <img width="1080" height="2408" alt="Screenshot_20260411-215953" src="https://github.com/user-attachments/assets/2f2646d6-9720-4b85-9ab0-41a96a3c2669" />
 
+# Day 13 Calculate factorial
+
+<img width="1080" height="2408" alt="Screenshot_20260412-221932" src="https://github.com/user-attachments/assets/25fc4ace-d556-4d69-8f3a-a008b6cb6241" />
+<img width="1080" height="2408" alt="Screenshot_20260412-221944" src="https://github.com/user-attachments/assets/4fe14597-b3f6-45a3-8720-1c5d187d8b6d" />
+<img width="1080" height="2408" alt="Screenshot_20260412-221950" src="https://github.com/user-attachments/assets/460a33b9-eb13-446f-8fef-f97b3e7a9e07" />
 
 
 
