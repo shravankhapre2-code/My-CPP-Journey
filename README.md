@@ -69,6 +69,13 @@ Calculate Simple Interest
 <img width="1080" height="2408" alt="Screenshot_20260412-221944" src="https://github.com/user-attachments/assets/4fe14597-b3f6-45a3-8720-1c5d187d8b6d" />
 <img width="1080" height="2408" alt="Screenshot_20260412-221950" src="https://github.com/user-attachments/assets/460a33b9-eb13-446f-8fef-f97b3e7a9e07" />
 
+# Day 14 Prime number checker
+
+<img width="1080" height="2408" alt="Screenshot_20260413-214045" src="https://github.com/user-attachments/assets/4e7021df-b957-48f6-98bc-568af71cf125" />
+<img width="1080" height="2408" alt="Screenshot_20260413-214056" src="https://github.com/user-attachments/assets/39b0e028-e961-45bf-ac82-d31c8924fd9a" />
+<img width="1080" height="2408" alt="Screenshot_20260413-214102" src="https://github.com/user-attachments/assets/1cb80273-2521-44bb-8848-4c4c0e05e7d4" />
+
+
 
 
 
