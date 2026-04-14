@@ -76,6 +76,13 @@ Calculate Simple Interest
 <img width="1080" height="2408" alt="Screenshot_20260413-214102" src="https://github.com/user-attachments/assets/1cb80273-2521-44bb-8848-4c4c0e05e7d4" />
 
 
+# Day 15: Implemented the Fibonacci sequence generator.
+
+<img width="1080" height="2408" alt="Screenshot_20260414-215130" src="https://github.com/user-attachments/assets/1350597f-cc81-4e4d-9a97-221bca7653c1" />
+
+<img width="1080" height="2408" alt="Screenshot_20260414-215108" src="https://github.com/user-attachments/assets/0f379565-49b1-48b1-a387-9e0cdf631cc2" />
+
+<img width="1080" height="2408" alt="Screenshot_20260414-215120" src="https://github.com/user-attachments/assets/fabd16f5-18de-41c9-8c4a-ba029a5bda3b" />
 
 
 
