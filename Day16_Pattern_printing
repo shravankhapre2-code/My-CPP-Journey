@@ -1,0 +1,21 @@
+#include <iostream>  // Must be at the top
+using namespace std; // Must be here to use cout/endl
+
+void printInverted(int n) {
+    for (int i = n; i >= 1; i--) {
+        for (int j = 1; j <= i; j++) {
+            cout << "* "; // This will work now
+        }
+        cout << endl; // This will work now
+    }
+}
+
+int main() {
+    int rows;
+    cout << "Enter rows: ";
+    cin >> rows;
+    
+    printInverted(rows); // Calling the function
+    
+    return 0;
+}
