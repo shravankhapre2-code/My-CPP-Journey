@@ -91,6 +91,12 @@ Calculate Simple Interest
 <img width="1080" height="2408" alt="Screenshot_20260415-223001" src="https://github.com/user-attachments/assets/8057035f-3fff-48a6-9529-b54df8928f04" />
 
 
+# Day 17: Simple function
+
+<img width="1080" height="2408" alt="Screenshot_20260416-222624" src="https://github.com/user-attachments/assets/b3310d58-cdf1-4335-9850-1fb31d0c3b49" />
+<img width="1080" height="2408" alt="Screenshot_20260416-222637" src="https://github.com/user-attachments/assets/1b676c13-1d54-455f-9820-b37e8c03cbd1" />
+
+
 
 
 
