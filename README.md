@@ -96,6 +96,12 @@ Calculate Simple Interest
 <img width="1080" height="2408" alt="Screenshot_20260416-222624" src="https://github.com/user-attachments/assets/b3310d58-cdf1-4335-9850-1fb31d0c3b49" />
 <img width="1080" height="2408" alt="Screenshot_20260416-222637" src="https://github.com/user-attachments/assets/1b676c13-1d54-455f-9820-b37e8c03cbd1" />
 
+# Day 18: pattern printing
+
+<img width="1080" height="2408" alt="Screenshot_20260418-221546" src="https://github.com/user-attachments/assets/a81ae538-6cb0-4cb1-9936-ef04b660a2da" />
+<img width="1080" height="2408" alt="Screenshot_20260418-221553" src="https://github.com/user-attachments/assets/6bf61463-79bc-4e78-b262-e54bbe17185d" />
+<img width="1080" height="2408" alt="Screenshot_20260418-221558" src="https://github.com/user-attachments/assets/0adfe5ee-c257-44d3-9666-68f46130022b" />
+
 
 
 
