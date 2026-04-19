@@ -103,6 +103,11 @@ Calculate Simple Interest
 <img width="1080" height="2408" alt="Screenshot_20260418-221558" src="https://github.com/user-attachments/assets/0adfe5ee-c257-44d3-9666-68f46130022b" />
 
 
+# Day 19 Character pattern printing
+
+<img width="1080" height="2408" alt="Screenshot_20260419-213756" src="https://github.com/user-attachments/assets/1ea80ff2-136f-4f00-a1d0-5f8a06b916fd" />
+<img width="1080" height="2408" alt="Screenshot_20260419-213810" src="https://github.com/user-attachments/assets/d82a0072-fefb-4ee4-9e6f-82f2ccbafbbf" />
+
 
 
 
