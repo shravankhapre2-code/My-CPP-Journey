@@ -108,6 +108,11 @@ Calculate Simple Interest
 <img width="1080" height="2408" alt="Screenshot_20260419-213756" src="https://github.com/user-attachments/assets/1ea80ff2-136f-4f00-a1d0-5f8a06b916fd" />
 <img width="1080" height="2408" alt="Screenshot_20260419-213810" src="https://github.com/user-attachments/assets/d82a0072-fefb-4ee4-9e6f-82f2ccbafbbf" />
 
+# Day 20: Mixed Numerical and Alphabetical Pattern
+
+<img width="1080" height="2408" alt="Screenshot_20260420-222130" src="https://github.com/user-attachments/assets/f8c98fff-c812-4f83-8681-c75b5661eaae" />
+<img width="1080" height="2408" alt="Screenshot_20260420-222134" src="https://github.com/user-attachments/assets/dc531a2d-e88f-4d78-8b0b-054a7626aa99" />
+
 
 
 
