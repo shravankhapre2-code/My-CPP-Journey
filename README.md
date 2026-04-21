@@ -114,5 +114,10 @@ Calculate Simple Interest
 <img width="1080" height="2408" alt="Screenshot_20260420-222134" src="https://github.com/user-attachments/assets/dc531a2d-e88f-4d78-8b0b-054a7626aa99" />
 
 
+# Day 21: Mirrored Triangle
+
+<img width="1080" height="2408" alt="Screenshot_20260421-221909" src="https://github.com/user-attachments/assets/5e1eebd3-f807-4603-a17c-22463d6b3007" />
+<img width="1080" height="2408" alt="Screenshot_20260421-221912" src="https://github.com/user-attachments/assets/a961c9bb-5da7-4803-802f-891732f57dd1" />
+
 
 
