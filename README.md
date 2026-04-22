@@ -120,4 +120,12 @@ Calculate Simple Interest
 <img width="1080" height="2408" alt="Screenshot_20260421-221912" src="https://github.com/user-attachments/assets/a961c9bb-5da7-4803-802f-891732f57dd1" />
 
 
+# Day 22: Introduction to Functional Programming
+
+<img width="1080" height="2408" alt="Screenshot_20260422-222636" src="https://github.com/user-attachments/assets/b1f6fb23-1377-40de-9ced-19254e401335" />
+<img width="1080" height="2408" alt="Screenshot_20260422-222645" src="https://github.com/user-attachments/assets/1fe97119-ff68-4982-a72f-99ba6c8b7c1e" />
+<img width="1080" height="2408" alt="Screenshot_20260422-222654" src="https://github.com/user-attachments/assets/206ab6b0-d10d-427d-9829-e773e59b615f" />
+
+
+
 
