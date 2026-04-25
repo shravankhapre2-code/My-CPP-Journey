@@ -127,5 +127,12 @@ Calculate Simple Interest
 <img width="1080" height="2408" alt="Screenshot_20260422-222654" src="https://github.com/user-attachments/assets/206ab6b0-d10d-427d-9829-e773e59b615f" />
 
 
+# Day 23: Understanding Function Sequencing and Prototypes
+
+<img width="1080" height="2408" alt="Screenshot_20260425-213246" src="https://github.com/user-attachments/assets/5e836026-d437-4c24-b4fa-80def38a1b5b" />
+<img width="1080" height="2408" alt="Screenshot_20260425-213259" src="https://github.com/user-attachments/assets/74a35ace-33c5-4cc5-b592-eccca32bd2b2" />
+
+
+
 
 
