@@ -133,6 +133,11 @@ Calculate Simple Interest
 <img width="1080" height="2408" alt="Screenshot_20260425-213259" src="https://github.com/user-attachments/assets/74a35ace-33c5-4cc5-b592-eccca32bd2b2" />
 
 
+# Day 24: Understanding Variable Scope and Lifetime
+
+<img width="1080" height="2408" alt="Screenshot_20260501-224438" src="https://github.com/user-attachments/assets/6a4abb43-14ab-428a-82f0-dc445d036136" />
+<img width="1080" height="2408" alt="Screenshot_20260501-224449" src="https://github.com/user-attachments/assets/a1b81ed0-169f-4c59-a649-fb510a6ab9a6" />
+
 
 
 
